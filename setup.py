@@ -4,8 +4,8 @@ setup(
     name='pydenticons',
     version='0.1',
     description='Identicons library in Python from Shin Adachi',
-    author='James Socol',
-    author_email='james@mozilla.com',
+    author='Shin Adachi',
+    author_email='shn@glucose.jp',
     url='http://github.com/jsocol/identicon',
     license='BSD',
     packages=['pydenticons'],
@@ -13,7 +13,6 @@ setup(
     classifiers=[
         'Development Status :: 4 - Beta',
         'Environment :: Web Environment',
-        'Environment :: Web Environment :: Mozilla',
         'Intended Audience :: Developers',
         'License :: OSI Approved :: BSD License',
         'Operating System :: OS Independent',
